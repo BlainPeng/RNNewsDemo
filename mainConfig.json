@@ -1,0 +1,28 @@
+{
+  "mainConfig": [
+    {
+      "news": "新闻",
+      "normalIconName": "tabbar_home",
+      "selectedIconName": "tabbar_home_highlighted",
+      "selectedTab": "news"
+    },
+    {
+      "live": "直播",
+      "normalIconName": "tabbar_live",
+      "selectedIconName": "tabbar_live_highlighted",
+      "selectedTab": "live"
+    },
+    {
+      "topic": "话题",
+      "normalIconName": "tabbar_topic",
+      "selectedIconName": "tabbar_topic_highlighted",
+      "selectedTab": "topic"
+    },
+    {
+      "mine": "我",
+      "normalIconName": "tabbar_mine",
+      "selectedIconName": "tabbar_mine_highlighted",
+      "selectedTab": "mine"
+    }
+  ]
+}
